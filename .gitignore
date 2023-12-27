@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# vscode setup's explicitly included intentionally to provide better experience since the specific debug configuration's used
+!.vscode

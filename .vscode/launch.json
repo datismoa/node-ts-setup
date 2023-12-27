@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "configurations": [
+    {
+      "name": "start",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "node",
+      "args": [
+        "--no-warnings=ExperimentalWarning",
+        "--loader=ts-node/esm",
+        "./src/index.ts"
+      ],
+      "cwd": "${workspaceRoot}",
+      "internalConsoleOptions": "openOnSessionStart",
+    }
+  ]
+}
