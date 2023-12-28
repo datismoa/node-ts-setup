@@ -1,4 +1,3 @@
-
 import chalk from 'chalk'
 import { execa } from 'execa'
 import dedent from 'dedent'
