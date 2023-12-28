@@ -1,5 +1,5 @@
 node_modules
 dist
 
-# vscode setup's explicitly included intentionally to provide better experience since the specific debug configuration's used
+# this folder intentionally included to provide better experience since the specific debug settings are used
 !.vscode

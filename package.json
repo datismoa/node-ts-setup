@@ -1,7 +1,7 @@
 {
-  "name": "node-ts-setup",
+  "name": "node-ts-template",
   "version": "1.0.0",
-  "description": "Node TS Setup",
+  "description": "Node TS Template",
   "type": "module",
   "private": true,
   "scripts": {
